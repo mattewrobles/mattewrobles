@@ -1,5 +1,4 @@
 # <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Mauricio Robles
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mauricio Robles
 =======================================================================================================================================
 
 Designer and developer
